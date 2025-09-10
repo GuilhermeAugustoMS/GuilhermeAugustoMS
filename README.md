@@ -1,6 +1,13 @@
-## HI, my name is Guilherme
+## HI, my name is 🧑🏽‍💻Guilherme
 
 
+---
+Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas, com sólida formação
+técnica e experiência prática em desenvolvimento de software. Possuo conhecimento em JavaScript,
+HTML, CSS, Git, GitHub, Visual Studio Code e orientação a objetos, além do domínio intermediário do
+Pacote Office
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +18,7 @@
   <img align="center" alt="gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 </div>
   
-  ##
+  ## Redes Sociais
  
 <div> 
   <a href="https://www.instagram.com/guilherme.augusto_33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,7 +28,7 @@
   
 </div>
 
-
+---
 ## Status
 
 
