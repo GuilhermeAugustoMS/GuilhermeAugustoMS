@@ -1,5 +1,7 @@
 ## HI, my name is 🧑🏽‍💻Guilherme
 
+![GabigolFlamengoGIF](https://github.com/user-attachments/assets/1355fa50-accc-4858-a837-e832bee3e012)
+
 
 ---
 Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas, com sólida formação
